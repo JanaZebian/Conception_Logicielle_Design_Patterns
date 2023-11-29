@@ -1,0 +1,9 @@
+
+# Intellij
+.idea
+target/
+
+# Java binaries & packages
+*.class
+*.jar
+*.war
